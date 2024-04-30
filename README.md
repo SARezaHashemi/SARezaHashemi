@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Seyyed Amirreza Hashemi (Null5)
+- 👀 I’m interested in programming();
+- 🌱 I’m currently learning .Net Core.
+- 🗿 I’m Sigma.
+- I'm a false beginner.
+- I should study for my school exams so i don't have enough time to complete a project.
+- 15 y.o
+- 📫 How to reach me:
+-     email : samhashemi87@gmail.com
+-     Telegram : @SeyyedAmirrezaHashemi
+-     LinkedIn : Linkedin.com/in/Null5
