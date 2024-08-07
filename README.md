@@ -4,7 +4,7 @@
 - 🗿 I’m Sigma.
 - I'm a false beginner.
 - I should study for my school exams so i don't have enough time to complete a project.
-- 15 y.o
+- 16 y.o
 - 📫 How to reach me:
 -     email : samhashemi87@gmail.com
 -     Telegram : @SeyyedAmirrezaHashemi
