@@ -6,6 +6,5 @@
 - I should study for my school exams so i don't have enough time to complete a project.
 - 16 y.o
 - 📫 How to reach me:
--     email : samhashemi87@gmail.com
--     Telegram : @SeyyedAmirrezaHashemi
--     LinkedIn : Linkedin.com/in/Null5
+-     email : NullHashemi@outlook.com
+-     Telegram : @Null5V
