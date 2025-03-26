@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Seyyed Amirreza Hashemi (Null5)
 - 👀 I’m interested in programming();
-- 🌱 I’m currently learning .Net Core.
+- 🌱 I’m currently studing at highschool.
 - 🗿 I’m Sigma.
 - I'm a false beginner.
 - I should study for my school exams so i don't have enough time to complete a project.
-- 16 y.o
+- 16.75 y.o
 - 📫 How to reach me:
 -     email : NullHashemi@outlook.com
 -     Telegram : @Null5V
