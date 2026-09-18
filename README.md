@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Seyyed Amirreza Hashemi (Null5)
-- 👀 I’m interested in programming();
-- 🌱 I’m currently studing at highschool.
-- 🗿 I’m Sigma.
-- I'm a false beginner.
-- I should study for my school exams so i don't have enough time to complete a project.
-- 17 y.o
-- 📫 How to reach me:
--     email : NullHashemi@outlook.com
--     Telegram : @Null5V
+- 👀 I’m interested in programming and software development.
+- 🌱 I’m currently getting back into programming and exploring new technologies.
+- 🧠 I’m a false beginner — I’ve been programming for a while, but I’m always learning something new.
+- 🎓 I’m 18.
+- 🚀 Currently focused on improving my programming skills and building projects.
+
+### 📫 How to reach me
+- Email: NullHashemi@outlook.com
+- Telegram: @Null5V
